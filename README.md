@@ -2,7 +2,7 @@
 
 ## Todo Section
 
-- [ ] Make it deploy
+- [x] Make it deploy
 - [ ] Scaffold basic UI with mock data
 - [ ] Actually Setup a DB (Vercel Postgres)
 - [ ] Attach DB to UI
