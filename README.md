@@ -3,7 +3,8 @@
 ## Todo Section
 
 - [x] Make it deploy
-- [ ] Scaffold basic UI with mock data
+- [x] Scaffold basic UI with mock data
+- [ ] Tidy up build process
 - [ ] Actually Setup a DB (Vercel Postgres)
 - [ ] Attach DB to UI
 - [ ] Add Auth (w/ Clerk)
